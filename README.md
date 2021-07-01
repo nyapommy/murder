@@ -1,2 +1,2 @@
 # Murder
-(ESPAÑOL/SPANISH) Murder es una aplicación que si le das una lista de personajes, hace que esos personajes peleen hasta que quede solo uno
+Murder is an application that if you give it a list of characters, it makes those characters fight until only one is left
