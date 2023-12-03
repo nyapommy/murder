@@ -3,4 +3,4 @@ Murder is an application that if you give it a list of characters, it makes thos
 
 Credits to:
 
-giganlak
+nyapommy
